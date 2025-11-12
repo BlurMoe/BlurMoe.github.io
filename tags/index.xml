@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://BlurMoe.github.io/tags/</link>
+    <link>http://192.168.1.193:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Moe)</managingEditor>
     <webMaster>youremail@example.com (Moe)</webMaster>
     <copyright>&amp;copy; 2025 Moe All Rights Reserved.</copyright>
-    <atom:link href="https://BlurMoe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Nov 2025 14:23:19 +0800</lastBuildDate><atom:link href="http://192.168.1.193:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>#ZeroTwo</title>
+      <link>http://192.168.1.193:1313/tags/%23zerotwo/</link>
+      <pubDate>Wed, 12 Nov 2025 14:23:19 +0800</pubDate>
+      <author>youremail@example.com (Moe)</author>
+      <guid>http://192.168.1.193:1313/tags/%23zerotwo/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
