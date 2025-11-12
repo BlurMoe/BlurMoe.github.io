@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on </title>
-    <link>http://192.168.1.193:1313/authors/</link>
-    <description>Recent content in Authors on </description>
+    <title>Authors on Moe&#39;s Blog</title>
+    <link>https://BlurMoe.github.io/authors/</link>
+    <description>Recent content in Authors on Moe&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Moe)</managingEditor>
     <webMaster>youremail@example.com (Moe)</webMaster>
     <copyright>&amp;copy; 2025 Moe All Rights Reserved.</copyright>
-    <atom:link href="http://192.168.1.193:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BlurMoe.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Moe</title>
-      <link>http://192.168.1.193:1313/authors/moe/</link>
+      <link>https://BlurMoe.github.io/authors/moe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Moe)</author>
-      <guid>http://192.168.1.193:1313/authors/moe/</guid>
+      <guid>https://BlurMoe.github.io/authors/moe/</guid>
       <description></description>
       
     </item>

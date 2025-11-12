@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moe on </title>
-    <link>http://192.168.1.193:1313/authors/moe/</link>
-    <description>Recent content in Moe on </description>
+    <title>Moe on Moe&#39;s Blog</title>
+    <link>https://BlurMoe.github.io/authors/moe/</link>
+    <description>Recent content in Moe on Moe&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Moe)</managingEditor>
     <webMaster>youremail@example.com (Moe)</webMaster>
     <copyright>&amp;copy; 2025 Moe All Rights Reserved.</copyright>
-    <atom:link href="http://192.168.1.193:1313/authors/moe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BlurMoe.github.io/authors/moe/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>关于</title>
-      <link>http://192.168.1.193:1313/about/</link>
+      <title>About</title>
+      <link>https://BlurMoe.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Moe)</author>
-      <guid>http://192.168.1.193:1313/about/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;作者
-    &lt;div id=&#34;作者&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bd%9c%e8%80%85&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-&lt;p&gt;这篇文章提供了一些在Congo中可用的基本Markdown格式的示例，同时展示了如何装饰一些基本的HTML元素。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.1.193:1313/about/feature.png" />
+      <guid>https://BlurMoe.github.io/about/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://BlurMoe.github.io/about/feature.png" />
     </item>
     
   </channel>

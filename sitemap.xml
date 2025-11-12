@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://192.168.1.193:1313/posts/</loc>
+    <loc>https://BlurMoe.github.io/posts/</loc>
+    <lastmod>2025-11-12T16:29:42+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://BlurMoe.github.io/posts/zero_two_quotes/</loc>
     <lastmod>2025-11-12T14:23:19+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.193:1313/posts/zero_two_quotes/</loc>
-    <lastmod>2025-11-12T14:23:19+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://192.168.1.193:1313/</loc>
+    <loc>https://BlurMoe.github.io/</loc>
     <lastmod>2025-11-11T08:27:04+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.193:1313/about/</loc>
+    <loc>https://BlurMoe.github.io/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
